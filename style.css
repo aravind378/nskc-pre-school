@@ -919,6 +919,9 @@ nav ul li a.btn {
   .three-pics img {
     width: 32%;
   }
+  .boy-girl {
+      margin-top:0 !important;
+  }
   .btn1 {
     font-size: 12px;
   }
